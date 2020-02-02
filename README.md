@@ -12,18 +12,18 @@ To enable completions for all users, copy the completion script to the `/etc/bas
 
 ## Demo
 - Getting a list of possible commands
-[](demo/all-cmds.gif)
+![](demo/all-cmds.gif)
 
-[](demo/cmd-completion.gif)
+![](demo/cmd-completion.gif)
 
 - Trying to run a standalone `.bal` file or a `.jar` file
-[](demo/run-single-file.gif)
+![](demo/run-single-file.gif)
 
 - Running a module
-[](demo/run-module.gif)
+![](demo/run-module.gif)
 
 - Building a single file
-[](demo/build-single-file.gif)
+![](demo/build-single-file.gif)
 
 - Building a module
-[](demo/build-module.gif)
+![](demo/build-module.gif)
